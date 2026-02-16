@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <!--
 **mossabelaktaoui-cell/mossabelaktaoui-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
