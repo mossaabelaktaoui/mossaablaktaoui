@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Mossaab Laktaoui I'm 19 years old, I'm currently studying in 1337 coding school, my specialization is Software Engineering, I'm still at the beginning of my cursus.
 <!--
 **mossabelaktaoui-cell/mossabelaktaoui-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
