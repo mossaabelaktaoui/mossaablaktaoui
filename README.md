@@ -1,32 +1,60 @@
 <h1 align="center">Hi 👋, I'm Mossaab Laktaoui</h1>
 <h3 align="center">A Student in the best Coding School 1337/42</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mossaablaktaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mossaablaktaoui" /> </p>
+## 👨‍💻 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mossaablaktaoui" alt="mossaablaktaoui" /></a> </p>
+- 🇲🇦 I'm Mossaab Laktaoui, a 19-year-old student from Morocco.
+- 🎓 Student at 1337 Coding School / 42 Network.
+- 💻 Passionate about AI, Linux, Assembly, and low-level computing concepts.
+- 🛠️ Mainly working with Python and C.
+- 📚 Currently learning how AI models work internally.
+- 🎥 I enjoy sharing knowledge and tech content through my YouTube channel.
+- 🚀 Focused on continuously improving my problem-solving and software engineering skills.
 
-- 🔭 I’m currently working on [Call-Me-Mybe](https://github.com/mossaabelaktaoui/Call-Me-Maybe)
 
-- 🌱 I’m currently learning **How AI Models works**
+<h3 align="left">🛠️ Languages and Tools</h3>
 
-- 📫 How to reach me **mossabelaktaoui@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mossaab-laktaoui-4527703b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mossaab-laktaoui-4527703b8" height="30" width="40" /></a>
-<a href="https://instagram.com/mossaablaktaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mossaablaktaoui" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mossaablaktaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mossaablaktaoui" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/1334949772884185100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/1334949772884185100" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=python,c&perline=6" 
+    />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=git,linux,bash,mysql&perline=6" 
+    />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=qt,vim,vscode&perline=6" 
+    />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+### 📺 Latest YouTube Videos
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mossaablaktaoui&show_icons=true&locale=en" alt="mossaablaktaoui" /></p>
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Latest Video](https://ytcards.demolab.com/?id=HhPs2sKlQYg&title=Latest+Video&lang=en&timestamp=now&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/@mossaablaktaoui)
+<!-- END YOUTUBE-CARDS -->
+
+👉 Check my channel here: https://www.youtube.com/@mossaablaktaoui
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mossaab-laktaoui-4527703b8" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
@@ -49,3 +77,10 @@
 
 </p>
 
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=mossaablaktaoui&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
+    alt="Profile views" 
+  />
+</p>
