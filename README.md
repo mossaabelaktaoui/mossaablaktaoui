@@ -37,8 +37,6 @@
 </p>
 
 
-👉 Check my channel here: https://www.youtube.com/@mossaablaktaoui
-
 ## 🐍 Contribution Snake
 
 <div align="center">
