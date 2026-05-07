@@ -36,10 +36,6 @@
   </a>
 </p>
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
 
 👉 Check my channel here: https://www.youtube.com/@mossaablaktaoui
 
