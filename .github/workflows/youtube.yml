@@ -1,0 +1,31 @@
+name: Update YouTube Videos
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update YouTube videos in README
+        uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCMfTLYlypLCnAaU7FFhpzCw
+          comment_tag_name: YOUTUBE
+          max_videos: 5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update YouTube videos" || exit 0
+          git push
