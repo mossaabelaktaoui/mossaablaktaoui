@@ -38,9 +38,8 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Latest Video](https://ytcards.demolab.com/?id=HhPs2sKlQYg&title=Latest+Video&lang=en&timestamp=now&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/@mossaablaktaoui)
-<!-- END YOUTUBE-CARDS -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 👉 Check my channel here: https://www.youtube.com/@mossaablaktaoui
 
