@@ -52,7 +52,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
 
-  <a href="https://https://www.instagram.com/mossaablaktaoui" target="_blank">
+  <a href="https://www.instagram.com/mossaablaktaoui" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
   </a>
 
