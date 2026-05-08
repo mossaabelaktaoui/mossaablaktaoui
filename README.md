@@ -12,12 +12,12 @@
 - 🚀 Focused on continuously improving my problem-solving and software engineering skills.
 
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<h2 align="left">🛠️ Languages and Tools</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=python,c&perline=6" 
+      src="https://skillicons.dev/icons?i=python,c,markdown&perline=6" 
     />
   </a>
 </p>
@@ -31,7 +31,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=qt,vim,vscode&perline=6" 
+      src="https://skillicons.dev/icons?i=qt,vim,vscode,notion,obsidian&perline=6" 
     />
   </a>
 </p>
