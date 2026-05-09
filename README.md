@@ -8,7 +8,7 @@
   align="right"
   src="https://badge.mediaplus.ma/colorfulwaves/mlaktaou"
   alt="42 stats"
-  width="300"
+  width="270"
   style="margin-left: 20px; margin-bottom: 10px;"
 />
 - 🇲🇦 I'm Mossaab Laktaoui, a 19-year-old student from Morocco.
@@ -83,5 +83,3 @@
     alt="Profile views" 
   />
 </p>
-
-[![mlaktaou's 42 stats](https://badge.mediaplus.ma/colorfulwaves/mlaktaou)](https://github.com/oakoudad/badge42)
