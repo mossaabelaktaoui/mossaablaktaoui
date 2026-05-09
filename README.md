@@ -1,14 +1,12 @@
 
 <div>
-
-<img
-  align="right"
-  src="https://badge.mediaplus.ma/colorfulwaves/mlaktaou"
-  alt="42 stats"
-  width="350"
-  style="margin-left: 20px; margin-bottom: 10px;"
-/>
-
+  <img
+    align="right"
+    src="https://badge.mediaplus.ma/colorfulwaves/mlaktaou"
+    alt="42 stats"
+    width="300"
+    style="margin-left: 20px; margin-bottom: 10px;"
+  />
 
 <table style="width: 100%;">
   <tr>
