@@ -43,7 +43,6 @@
   <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
----
 
 ## 🌐 Connect With Me
 
