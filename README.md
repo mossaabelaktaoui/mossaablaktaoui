@@ -67,7 +67,7 @@
   </a>
 
   <a href="https://www.youtube.com/@mossaablaktaoui" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/3840px-YouTube_play_button_square_%282013-2017%29.svg.png" height="40" alt="YouTube"/>
+    <img src="https://github.com/mossaablaktaoui/Assests/blob/main/youtube-logo-youtube-icon-transparent-free-png%201.png?raw=true" height="40" alt="YouTube"/>
   </a>
 
   <a href="https://github.com/mossaabelaktaoui" target="_blank">
