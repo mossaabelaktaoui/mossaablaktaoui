@@ -1,27 +1,16 @@
 
-<div>
-  <img
-    align="right"
-    src="https://badge.mediaplus.ma/colorfulwaves/mlaktaou"
-    alt="42 stats"
-    width="300"
-    style="margin-left: 20px; margin-bottom: 10px;"
-  />
-
-  <table style="width: 100%; display: inline-block;">
-    <tr>
-      <td>
-        <h1>Hi 👋, I'm Mossaab Laktaoui</h1>
-        <h3>A Student in the best Coding School 1337/42</h3>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
+<h1 align="center">Hi 👋, I'm Mossaab Laktaoui</h1>
+<h3 align="center">A Student in the best Coding School 1337/42</h3>
 
 ## 👨‍💻 About Me
 
+<img
+  align="right"
+  src="https://badge.mediaplus.ma/colorfulwaves/mlaktaou"
+  alt="42 stats"
+  width="300"
+  style="margin-left: 20px; margin-bottom: 10px;"
+/>
 - 🇲🇦 I'm Mossaab Laktaoui, a 19-year-old student from Morocco.
 - 🎓 Student at 1337 Coding School / 42 Network.
 - 💻 Passionate about AI, Linux, Assembly, and low-level computing concepts.
@@ -29,7 +18,6 @@
 - 📚 Currently learning how AI models work internally.
 - 🎥 I enjoy sharing knowledge and tech content through my YouTube channel.
 - 🚀 Focused on continuously improving my problem-solving and software engineering skills.
-
 
 <h2 align="left">🛠️ Languages and Tools</h2>
 
