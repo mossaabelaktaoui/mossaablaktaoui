@@ -1,5 +1,27 @@
-<h1 align="center">Hi 👋, I'm Mossaab Laktaoui</h1>
-<h3 align="center">A Student in the best Coding School 1337/42</h3>
+
+<div>
+
+<img
+  align="right"
+  src="https://badge.mediaplus.ma/colorfulwaves/mlaktaou"
+  alt="42 stats"
+  width="350"
+  style="margin-left: 20px; margin-bottom: 10px;"
+/>
+
+
+<table style="width: 100%;">
+  <tr>
+    <td>
+      <h1>Hi 👋, I'm Mossaab Laktaoui</h1>
+      <h3>A Student in the best Coding School 1337/42</h3>
+    </td>
+  </tr>
+</table>
+
+
+</div>
+
 
 ## 👨‍💻 About Me
 
@@ -76,3 +98,5 @@
     alt="Profile views" 
   />
 </p>
+
+[![mlaktaou's 42 stats](https://badge.mediaplus.ma/colorfulwaves/mlaktaou)](https://github.com/oakoudad/badge42)
