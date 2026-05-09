@@ -8,15 +8,14 @@
     style="margin-left: 20px; margin-bottom: 10px;"
   />
 
-<table style="width: 100%;">
-  <tr>
-    <td>
-      <h1>Hi 👋, I'm Mossaab Laktaoui</h1>
-      <h3>A Student in the best Coding School 1337/42</h3>
-    </td>
-  </tr>
-</table>
-
+  <table style="width: 100%; display: inline-block;">
+    <tr>
+      <td>
+        <h1>Hi 👋, I'm Mossaab Laktaoui</h1>
+        <h3>A Student in the best Coding School 1337/42</h3>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
